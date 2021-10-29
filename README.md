@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VictorHoffner
+- 👋 Hi, I’m @Bichinho
 - 👀 I’m interested in Learn about Discord Bots
 - 🌱 I’m currently learning BDFD
 - 💞️ I’m looking to collaborate on Discord Bots
